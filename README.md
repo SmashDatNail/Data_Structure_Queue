@@ -18,6 +18,14 @@ The first order entered will be the first order prepared.
 <p align="center">
   Figure 1: With arduino
 </p>
+<img width="807" height="651" alt="image" src="https://github.com/user-attachments/assets/b4370b56-30b1-48a2-aba8-75926bb91399" />
+<p align="center">
+  Figure 2: With esp32
+</p>
+<img width="3904" height="2928" alt="IMG_20260614_182836" src="https://github.com/user-attachments/assets/6d0e5301-2457-461c-b070-5ba54a2c423a" />
+<p align="center">
+  Figure 2: Hardware Implementation using esp32
+</p>
 
 <img width="1871" height="818" alt="screenshot_2026-06-14_18-29-16" src="https://github.com/user-attachments/assets/1a0a46ae-41b6-445d-953c-35d5fa3a271b" />
   <p align = "center">
