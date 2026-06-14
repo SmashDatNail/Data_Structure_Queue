@@ -11,8 +11,8 @@
 #include <WebServer.h>
 
 // ---------- WiFi credentials (EDIT THESE) ----------
-const char* WIFI_SSID = "Q=mcθ";
-const char* WIFI_PASS = "NailIrfan4406";
+const char* WIFI_SSID = "Wifi_Name";
+const char* WIFI_PASS = "Wifi_Pass";
 
 // ---------- Pin assignments (DOIT ESP32 DEVKIT V1) ----------
 // All button pins use the internal pull-up, so each button just goes to GND.
