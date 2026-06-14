@@ -8,19 +8,21 @@ This project simulates a restaurant order management system. Customers can place
 The first order entered will be the first order prepared.
 ## Diagram
 <p align="center">
-<img width="480" alt="Arduino circuit diagram" src="https://github.com/user-attachments/assets/eb81b21c-186a-49d7-9b85-715b53d90188" />
-
+  <img width="480" alt="Arduino circuit diagram" src="https://github.com/user-attachments/assets/eb81b21c-186a-49d7-9b85-715b53d90188" /><br>
   Figure 1: With arduino
+</p>
 
-<img width="420" alt="ESP32 circuit diagram" src="https://github.com/user-attachments/assets/b4370b56-30b1-48a2-aba8-75926bb91399" />
 <p align="center">
+  <img width="420" alt="ESP32 circuit diagram" src="https://github.com/user-attachments/assets/b4370b56-30b1-48a2-aba8-75926bb91399" /><br>
   Figure 2: With esp32
+</p>
 
-<img width="400" alt="ESP32 hardware build" src="https://github.com/user-attachments/assets/6d0e5301-2457-461c-b070-5ba54a2c423a" />
-
+<p align="center">
+  <img width="400" alt="ESP32 hardware build" src="https://github.com/user-attachments/assets/6d0e5301-2457-461c-b070-5ba54a2c423a" /><br>
   Figure 3: Hardware Implementation using esp32
 </p>
-<img width="480" alt="Web dashboard" src="https://github.com/user-attachments/assets/1a0a46ae-41b6-445d-953c-35d5fa3a271b" />
 
-    Figure 4: Web Dashboard
-  </p>
+<p align="center">
+  <img width="480" alt="Web dashboard" src="https://github.com/user-attachments/assets/1a0a46ae-41b6-445d-953c-35d5fa3a271b" /><br>
+  Figure 4: Web Dashboard
+</p>
